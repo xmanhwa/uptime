@@ -9,6 +9,7 @@ sites:
 status-website:
   cname: status.xmanhwa.net
   logoUrl: https://xmanhwa.net/favicon.ico
+  favicon: https://xmanhwa.net/favicon.ico
   name: xManhwa Status
   introTitle: "**xManhwa System Status**"
   introMessage: This is the system status for the xManhwa service.
