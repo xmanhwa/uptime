@@ -14,8 +14,6 @@ status-website:
   introTitle: "**xManhwa System Status**"
   introMessage: This is the system status for the xManhwa service.
   navbar:
-    - title: Status
-      href: /
     - title: Home
       href: https://xmanhwa.net
 
