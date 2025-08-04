@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/xmanhwa.net.ico",
     "slug": "x-manhwa",
     "status": "down",
-    "uptime": "74.67%",
+    "uptime": "74.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "37.38%",
-    "uptimeYear": "72.03%",
+    "uptimeMonth": "34.09%",
+    "uptimeYear": "71.75%",
     "time": 2775,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 167,
-    "timeYear": 3147,
+    "timeMonth": 172,
+    "timeYear": 3154,
     "dailyMinutesDown": {
-      "2025-08-03": 155,
+      "2025-08-04": 155,
+      "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
@@ -136,8 +137,7 @@
       "2024-08-20": 121,
       "2024-08-19": 447,
       "2024-08-18": 67,
-      "2024-08-17": 104,
-      "2024-08-04": 13
+      "2024-08-17": 104
     }
   }
 ]
